@@ -1,0 +1,2 @@
+C:\Users\devon\Desktop\BMI_exercise\BMI_exercise\BMI_exercise.csproj;x86
+C:\Users\devon\Desktop\BMI_exercise\BMICalc\BMICalc.csproj;x86
